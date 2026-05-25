@@ -5,285 +5,285 @@
     "altLangLabel": "EN"
   },
   "brand": {
-    "name": "[MY] Vibe Code Tours",
-    "tagline": "[MY] A guided journey into AI-paired coding"
+    "name": "Vibe Code Tours",
+    "tagline": "AI-paired coding လမ်းညွှန်ခရီးစဉ်"
   },
   "nav": {
-    "home": "[MY] Home",
-    "about": "[MY] About",
-    "team": "[MY] Team",
-    "curriculum": "[MY] Curriculum",
-    "apply": "[MY] Apply",
-    "sponsors": "[MY] Sponsors",
-    "faq": "[MY] FAQ",
-    "contact": "[MY] Contact"
+    "home": "ပင်မစာမျက်နှာ",
+    "about": "ကျွန်ုပ်တို့အကြောင်း",
+    "team": "အဖွဲ့ဝင်များ",
+    "curriculum": "သင်ရိုးညွှန်းတမ်း",
+    "apply": "လျှောက်ထားရန်",
+    "sponsors": "ကူညီပံ့ပိုးသူများ",
+    "faq": "မေးလေ့ရှိသောမေးခွန်းများ",
+    "contact": "ဆက်သွယ်ရန်"
   },
   "footer": {
-    "rights": "[MY] © 2026 Vibe Code Tours",
-    "terms": "[MY] Terms",
-    "coc": "[MY] Code of Conduct",
-    "privacy": "[MY] Privacy",
-    "contact": "[MY] Contact",
-    "license": "[MY] Curriculum: CC-BY-SA 4.0 · Code: MIT · Logo + visuals: CC-BY-SA 4.0"
+    "rights": "© 2026 Vibe Code Tours",
+    "terms": "စည်းကမ်းချက်များ",
+    "coc": "ကျင့်ဝတ်စည်းကမ်းများ",
+    "privacy": "ကိုယ်ရေးအချက်အလက်လုံခြုံမှု",
+    "contact": "ဆက်သွယ်ရန်",
+    "license": "Curriculum: CC-BY-SA 4.0 · Code: MIT · Logo + visuals: CC-BY-SA 4.0",
+    "credibility": "သင်တန်းသားများအတွက် အခမဲ့ · ကိုယ်ထူကိုယ်ထစနစ်ဖြင့် စတင်ထားပြီး sponsor များ ရှာဖွေနေဆဲဖြစ်သည် · MIT / CC-BY-SA licensed curriculum"
   },
   "home": {
-    "title": "[MY] Vibe Code Tours — A guided journey into AI-paired coding",
-    "description": "[MY] A cohort-based online tour of the AI coding ecosystem, designed for Myanmar developers ready to build with Claude Code. 8 weeks. 9 students. Free.",
-    "heroTitle": "[MY] AI & Vibe Coding Tour",
-    "heroStat": "[MY] 8 weeks. 9 students. Free.",
-    "heroSub": "[MY] A cohort-based online tour of the AI coding ecosystem, designed for Myanmar developers ready to build with Claude Code.",
-    "ctaApply": "[MY] Apply for the next cohort →",
-    "ctaWork": "[MY] See Cohort 1 work →",
-    "card1Title": "[MY] What you'll learn",
-    "card1Body": "[MY] AI-paired coding fundamentals, prompt craft, team workflows on real projects, and how to ship something useful with Claude as your pair.",
-    "card2Title": "[MY] How it works",
-    "card2Body": "[MY] 2-hour live sessions, twice a week, for 8 weeks. Solo instructor, 9-student cohort, 3 teams of 3. Public Tour Repo. Demo day at the end.",
-    "card3Title": "[MY] Who it's for",
-    "card3Body": "[MY] Beginners with terminal comfort. Intermediate devs adding AI to their toolkit. Experienced engineers curious about the AI coding landscape, not just one tool.",
-    "credibility": "[MY] Free to participants · Sponsored by [list] · MIT / CC-BY-SA licensed curriculum"
+    "title": "Vibe Code Tours — AI-paired coding လမ်းညွှန်ခရီးစဉ်",
+    "description": "Claude Code ဖြင့် တည်ဆောက်ရန် အဆင်သင့်ဖြစ်နေသော မြန်မာ developer များအတွက် ရည်ရွယ်သည့် AI coding ဂေဟစနစ် အွန်လိုင်းခရီးစဉ်။ ၈ ပတ်။ ကျောင်းသား ၉ ဦး။ အခမဲ့။",
+    "heroTitle": "AI & Vibe Coding Tour",
+    "heroStat": "၈ ပတ်။ ကျောင်းသား ၉ ဦး။ အခမဲ့။",
+    "heroSub": "Claude Code ဖြင့် တည်ဆောက်ရန် အဆင်သင့်ဖြစ်နေသော မြန်မာ developer များအတွက် ရည်ရွယ်သည့် AI coding ဂေဟစနစ် အွန်လိုင်းခရီးစဉ်။",
+    "ctaApply": "နောက်တစ်သုတ်အတွက် လျှောက်ထားရန် →",
+    "ctaWork": "Cohort 1 ၏ လက်ရာများကို ကြည့်ရန် →",
+    "card1Title": "သင် ဘာတွေသင်ယူရမလဲ",
+    "card1Body": "AI-paired coding အခြေခံများ၊ prompt craft၊ လက်တွေ့ ပရောဂျက်များတွင် အဖွဲ့လိုက် လုပ်ဆောင်မှုများ နှင့် Claude ကို အသုံးပြုပြီး အသုံးဝင်သော အရာများကို မည်သို့ ထုတ်လုပ်ရမည်နည်း။",
+    "card2Title": "ဘယ်လိုမျိုး လုပ်ဆောင်သလဲ",
+    "card2Body": "တစ်ပတ်လျှင် ၂ ကြိမ်၊ တစ်ကြိမ်လျှင် ၂ နာရီဖြင့် ၈ ပတ်ကြာ တိုက်ရိုက်သင်ကြားမည်။ ဆရာ တစ်ဦး၊ ကျောင်းသား ၉ ဦး၊ ၃ ဦးစီပါဝင်သော အဖွဲ့ ၃ ဖွဲ့။ Public Tour Repo။ သင်တန်းအပြီးတွင် Demo day ရှိမည်။",
+    "card3Title": "ဘယ်သူတွေအတွက်လဲ",
+    "card3Body": "terminal အသုံးပြုနိုင်သော စတင်လေ့လာသူများ။ AI ကို မိမိ၏ toolkit တွင် ထည့်သွင်းလိုသော intermediate developer များ။ Tool တစ်ခုတည်းတင်မကဘဲ AI coding နယ်ပယ်ကို စိတ်ဝင်စားသော အတွေ့အကြုံရှိ အင်ဂျင်နီယာများ။",
+    "credibility": "တက်ရောက်သူများအတွက် အခမဲ့ · [list] မှ ကူညီပံ့ပိုးသည် · MIT / CC-BY-SA လိုင်စင်ရ သင်ရိုးညွှန်းတမ်း"
   },
   "about": {
-    "title": "[MY] About — Vibe Code Tours",
-    "description": "[MY] Why Vibe Code Tours exists: a curated entry into the AI coding ecosystem for Myanmar developers, built on awareness over mastery and honesty about what we skip.",
-    "heading": "[MY] Why this Tour exists",
-    "intro1": "[MY] Most coding courses teach one stack. Most AI tutorials teach one tool. Neither helps a developer in 2026, when the landscape changes monthly and the meta-skill is \"navigate change.\"",
-    "intro2": "[MY] We started this Tour for a specific group: Myanmar developers who can follow a terminal, want to build, and need a curated entry into the AI coding ecosystem without paying $1000 for a bootcamp that teaches yesterday's tools.",
-    "believeHeading": "[MY] What we believe",
+    "title": "အကြောင်း — Vibe Code Tours",
+    "description": "Vibe Code Tours ဘာကြောင့်ရှိသလဲ- ကျွမ်းကျင်မှုထက် သိရှိနားလည်မှုအပေါ် အခြေခံပြီး ကျွန်ုပ်တို့ ချန်လှပ်ထားခဲ့တာတွေကို ပွင့်ပွင့်လင်းလင်း ဖော်ပြထားတဲ့ မြန်မာ developer များအတွက် AI coding ecosystem ထဲကို စနစ်တကျ လမ်းညွှန်ပေးမယ့် အစီအစဉ်တစ်ခုဖြစ်ပါတယ်။",
+    "heading": "ဒီ Tour ဘာကြောင့်ရှိသလဲ",
+    "intro1": "coding သင်တန်းအများစုက stack တစ်ခုတည်းကိုပဲ သင်ပေးကြတယ်။ AI tutorial အများစုကလည်း tool တစ်ခုတည်းကိုပဲ သင်ပေးကြတယ်။ နယ်ပယ်က လစဉ်ပြောင်းလဲနေပြီး \"အပြောင်းအလဲကို ရင်ဆိုင်နိုင်စွမ်း\" က အဓိက လိုအပ်ချက်ဖြစ်လာတဲ့ 2026 ခုနှစ်မှာ အဲဒီနှစ်ခုလုံးက developer တစ်ယောက်အတွက် အထောက်အကူမဖြစ်ပါဘူး။",
+    "intro2": "terminal အသုံးပြုတတ်ပြီး၊ တစ်ခုခုကို ကိုယ်တိုင်တည်ဆောက်ချင်တဲ့၊ ပြီးတော့ ခေတ်မမီတော့တဲ့ tool တွေကို သင်ပေးတဲ့ bootcamp တွေအတွက် $1000 အကုန်အကျမခံဘဲ AI coding ecosystem ထဲကို စနစ်တကျ ဝင်ရောက်ချင်တဲ့ မြန်မာ developer တွေအတွက် ဒီ Tour ကို ကျွန်ုပ်တို့ စတင်ခဲ့တာပါ။",
+    "believeHeading": "ကျွန်ုပ်တို့ ယုံကြည်ချက်များ",
     "beliefs": [
       {
-        "title": "[MY] Awareness over mastery.",
-        "body": "[MY] You don't need to master Claude Code, Cursor, Copilot, and four others. You need to know they exist, what they're for, and how to pick. Mastery comes after."
+        "title": "ကျွမ်းကျင်မှုထက် သိရှိနားလည်မှုကို ဦးစားပေးပါတယ်။",
+        "body": "Claude Code၊ Cursor၊ Copilot နဲ့ တခြား tool တွေကို အကုန်လုံး ကျွမ်းကျင်နေဖို့ မလိုပါဘူး။ အဲဒါတွေ ရှိနေတယ်ဆိုတာ၊ ဘာအတွက် သုံးရတယ်ဆိုတာနဲ့ ဘယ်လို ရွေးချယ်ရမလဲဆိုတာ သိဖို့ပဲ လိုပါတယ်။ ကျွမ်းကျင်မှုကတော့ နောက်မှ လာပါလိမ့်မယ်။"
       },
       {
-        "title": "[MY] AI is the default partner, not an afterthought.",
-        "body": "[MY] Claude shows up in every chapter — including the team workflows chapter, the deployment chapter, the testing chapter. Not just the \"AI module.\""
+        "title": "AI က နောက်မှစဉ်းစားရမယ့်အရာမဟုတ်ဘဲ အခြေခံလက်တွဲဖော် ဖြစ်ပါတယ်။",
+        "body": "Claude က \"AI module\" တစ်ခုတည်းတင်မဟုတ်ဘဲ အသင်းအဖွဲ့ workflow၊ deployment နဲ့ testing အခန်းတွေအပါအဝင် အခန်းတိုင်းမှာ ပါဝင်နေမှာပါ။"
       },
       {
-        "title": "[MY] Projects are vehicles, not outcomes.",
-        "body": "[MY] 60% finished with insight beats 100% finished without. The point is what you understand, not what you shipped."
+        "title": "project တွေက ရလဒ်ထက် သင်ယူမှုအတွက် ကြားခံယာဉ်တွေသာ ဖြစ်ပါတယ်။",
+        "body": "သိမြင်နားလည်မှုရှိရှိနဲ့ 60% ပြီးစီးတာက ဘာမှနားမလည်ဘဲ 100% ပြီးစီးတာထက် ပိုကောင်းပါတယ်။ အဓိကအချက်က သင် ဘာတွေ နားလည်သွားသလဲဆိုတာပါပဲ၊ ဘာတွေ တည်ဆောက်ပြီးစီးသွားသလဲဆိုတာ မဟုတ်ပါဘူး။"
       },
       {
-        "title": "[MY] Honest about what we skip.",
-        "body": "[MY] We don't teach a specific framework deeply. We don't certify. We don't place students in jobs. We tell you what we're NOT doing as clearly as what we ARE."
+        "title": "ကျွန်ုပ်တို့ ချန်လှပ်ထားခဲ့တဲ့ အရာတွေအပေါ် ပွင့်လင်းရိုးသားမှု ရှိပါတယ်။",
+        "body": "ကျွန်ုပ်တို့က သတ်မှတ်ထားတဲ့ framework တစ်ခုကို အသေးစိတ် မသင်ပေးပါဘူး။ လက်မှတ်မပေးပါဘူး။ အလုပ်အကိုင် ရှာမပေးပါဘူး။ ကျွန်ုပ်တို့ ဘာတွေလုပ်ပေးမလဲဆိုတာလိုပဲ ဘာတွေ မလုပ်ပေးဘူးလဲဆိုတာကိုလည်း ရှင်းရှင်းလင်းလင်း ပြောပြထားပါတယ်။"
       },
       {
-        "title": "[MY] Teaching is recursive.",
-        "body": "[MY] Each cohort makes the next cohort better. We publish what we learn. We publish what didn't work."
+        "title": "သင်ကြားမှုက အဆင့်ဆင့် ထပ်ကျော့ အကျိုးပြုပါတယ်။",
+        "body": "cohort တစ်ခုစီက နောက်လာမယ့် cohort တွေကို ပိုကောင်းလာစေပါတယ်။ ကျွန်ုပ်တို့ သင်ယူရရှိတာတွေကို ထုတ်ပြန်ပေးသလို၊ အလုပ်မဖြစ်ခဲ့တာတွေကိုလည်း ထုတ်ပြန်ပေးပါတယ်။"
       }
     ],
-    "notHeading": "[MY] What this Tour is NOT",
+    "notHeading": "ဒီ Tour က ဘာတွေမဟုတ်သလဲ",
     "notList": [
-      "[MY] A bootcamp with a placement guarantee — there is no placement",
-      "[MY] An AI coding tools advertisement — we critique tools openly",
-      "[MY] A pure Claude Code class — Claude is the through-line, not the topic",
-      "[MY] A beginner-only space — we welcome all levels, with peer-teaching as design",
-      "[MY] A Myanmar-exclusive program — applicants from any country welcome, but instruction is in English with Burmese support"
+      "အလုပ်အကိုင် အာမခံချက်ပေးတဲ့ bootcamp မဟုတ်ပါဘူး — အလုပ်အကိုင် ရှာမပေးပါ",
+      "AI coding tools ကြော်ငြာ မဟုတ်ပါဘူး — tool တွေကို ပွင့်ပွင့်လင်းလင်း ဝေဖန်သုံးသပ်သွားမှာပါ",
+      "Claude Code သီးသန့် အတန်းမဟုတ်ပါဘူး — Claude က အဓိက လမ်းညွှန်အချက်အလက် ဖြစ်ပေမဲ့ သင်ခန်းစာ ခေါင်းစဉ်တော့ မဟုတ်ပါဘူး",
+      "အခြေခံသမားတွေအတွက်ပဲ မဟုတ်ပါဘူး — အဆင့်တိုင်းကို ကြိုဆိုပြီး အချင်းချင်း ပြန်လည်သင်ကြားပေးနိုင်အောင် စီစဉ်ထားပါတယ်",
+      "မြန်မာနိုင်ငံအတွက်ပဲ သီးသန့် မဟုတ်ပါဘူး — ဘယ်နိုင်ငံကမဆို လျှောက်ထားနိုင်ပါတယ်၊ ဒါပေမဲ့ သင်ကြားမှုကိုတော့ အင်္ဂလိပ်ဘာသာနဲ့ ပြုလုပ်ပြီး မြန်မာဘာသာနဲ့ အကူအညီပေးသွားမှာပါ"
     ]
   },
   "team": {
-    "title": "[MY] Team — Vibe Code Tours",
-    "description": "[MY] Who runs Vibe Code Tours: the lead instructor, advisors, and how to help.",
-    "heading": "[MY] Who runs this",
-    "leadHeading": "[MY] Lead instructor",
-    "photoAlt": "[MY] Instructor photo placeholder",
-    "photoCaption": "[MY] Photo coming soon",
-    "name": "[MY] kokoye2007",
-    "bio": "[MY] Lead instructor of Vibe Code Tours. I build with AI coding tools and run this cohort to help Myanmar developers find their footing in the fast-moving AI coding landscape — awareness over mastery, AI as the default pair. Most of my work lives on GitHub.",
-    "github": "[MY] GitHub",
+    "title": "အသင်းအဖွဲ့ — Vibe Code Tours",
+    "description": "Vibe Code Tours ကို ဘယ်သူတွေ လည်ပတ်နေသလဲ- lead instructor၊ အကြံပေးပုဂ္ဂိုလ်များနဲ့ ဘယ်လို ကူညီနိုင်မလဲဆိုတာတွေ ပါဝင်ပါတယ်။",
+    "heading": "ဒါကို ဘယ်သူတွေ လုပ်ဆောင်နေသလဲ",
+    "leadHeading": "Lead instructor",
+    "photoAlt": "Instructor ဓာတ်ပုံနေရာ",
+    "photoCaption": "ဓာတ်ပုံ မကြာမီ လာပါမည်",
+    "name": "kokoye2007",
+    "bio": "Vibe Code Tours ရဲ့ lead instructor ဖြစ်ပါတယ်။ ကျွန်တော်က AI coding tools တွေနဲ့ တည်ဆောက်မှုတွေ ပြုလုပ်နေပြီး၊ လျင်မြန်စွာ ပြောင်းလဲနေတဲ့ AI coding နယ်ပယ်မှာ မြန်မာ developer တွေ လမ်းစရှာတွေ့နိုင်ဖို့ ဒီ cohort ကို လုပ်ဆောင်နေတာဖြစ်ပါတယ် — ကျွမ်းကျင်မှုထက် သိရှိနားလည်မှု၊ AI ကို အခြေခံလက်တွဲဖော်အဖြစ် အသုံးပြုပါတယ်။ ကျွန်တော့်ရဲ့ အလုပ်အများစုကို GitHub မှာ ကြည့်ရှုနိုင်ပါတယ်။",
+    "github": "GitHub",
     "githubHandle": "@kokoye2007",
     "githubUrl": "https://github.com/kokoye2007",
-    "x": "[MY] X / Twitter",
+    "x": "X / Twitter",
     "xHandle": "@kokoye2007",
     "xUrl": "https://x.com/kokoye2007",
-    "emailLabel": "[MY] Email",
+    "emailLabel": "အီးမေးလ်",
     "email": "ai+tour@vibecode.tours",
-    "advisorsHeading": "[MY] Advisors",
-    "advisorsBody": "[MY] (Optional — list mentors, technical advisors, past students serving as TAs.)",
-    "helpHeading": "[MY] Want to help?",
-    "helpBody": "[MY] We accept contributions of feedback, sponsorship, and time. See the sponsors page for how to contribute."
+    "advisorsHeading": "အကြံပေးပုဂ္ဂိုလ်များ",
+    "advisorsBody": "(ရွေးချယ်နိုင်သည် — လမ်းညွှန်ပြသပေးသူများ၊ နည်းပညာအကြံပေးများ၊ TA အဖြစ် တာဝန်ယူပေးသော ကျောင်းသားဟောင်းများ စာရင်း။)",
+    "helpHeading": "ကူညီပေးလိုပါသလား?",
+    "helpBody": "ကျွန်ုပ်တို့သည် တုံ့ပြန်ချက်များ၊ ပံ့ပိုးကူညီမှုများနှင့် အချိန်ပေးလှူဒါန်းမှုများကို လက်ခံပါသည်။ ပါဝင်ကူညီနိုင်မည့် နည်းလမ်းများအတွက် ပံ့ပိုးကူညီသူများစာမျက်နှာတွင် ကြည့်ရှုပါ။"
   },
   "curriculum": {
-    "title": "[MY] Curriculum — Vibe Code Tours",
-    "description": "[MY] 8 chapters over 8 weeks. AI-paired coding from setup to demo day, structured by the A/B/C tier framework.",
-    "heading": "[MY] What you'll learn",
-    "intro": "[MY] 8 chapters over 8 weeks. 2 sessions × 2 hours per chapter. Plus async pre-class setup (Chapter 0). Cohort runs 16 live sessions across the 8-week arc.",
-    "ctaSample": "[MY] See sample curriculum: Chapter 2 →",
-    "ctaDownload": "[MY] Download outline (PDF) →",
-    "readMore": "[MY] Read more →",
-    "startHere": "[MY] START HERE",
-    "tierHeading": "[MY] Tier framework",
-    "tierIntro": "[MY] Every chapter is built from blocks tagged by tier. The mix shows how AI fits into that chapter:",
-    "tierA": "[MY] Tier A — AI off. Manual demo, bootstrap, human ceremony.",
-    "tierB": "[MY] Tier B — Foundation. You do it manually first, then with AI.",
-    "tierC": "[MY] Tier C — AI default. Claude does the work, you validate.",
-    "tierNote": "[MY] We deliberately balance the ratio per chapter. Ch0 is all A (manual setup). Ch2 is heavy B+C (learning Claude). Ch8 is back to A (demos are human).",
-    "getHeading": "[MY] What you get",
-    "commitHeading": "[MY] What you commit",
+    "title": "သင်ရိုးညွှန်းတမ်း — Vibe Code Tours",
+    "description": "၈ ပတ်အတွင်း သင်ခန်းစာ ၈ ခု။ စတင်ပြင်ဆင်ချိန်မှစ၍ demo day အထိ AI နှင့် တွဲဖက်ကုဒ်ရေးသားခြင်း၊ Tier A/B/C framework ဖြင့် ဖွဲ့စည်းထားသည်။",
+    "heading": "သင် ဘာတွေသင်ယူရမလဲ",
+    "intro": "၈ ပတ်အတွင်း သင်ခန်းစာ ၈ ခု။ သင်ခန်းစာတစ်ခုလျှင် ၂ နာရီကြာ ၂ ကြိမ်။ ထို့အပြင် သင်တန်းမစမီ ကိုယ်တိုင်ပြင်ဆင်မှု (Chapter 0)။ ၈ ပတ်တာအတွင်း တိုက်ရိုက်သင်ကြားမှု ၁၆ ကြိမ် ပြုလုပ်ပါမည်။",
+    "ctaSample": "နမူနာသင်ရိုးကို ကြည့်ရှုရန်: Chapter 2 →",
+    "ctaDownload": "အကျဉ်းချုပ် (PDF) ကို ဒေါင်းလုဒ်လုပ်ရန် →",
+    "readMore": "ဆက်လက်ဖတ်ရှုရန် →",
+    "startHere": "ဤနေရာမှ စတင်ပါ",
+    "tierHeading": "Tier framework",
+    "tierIntro": "သင်ခန်းစာတိုင်းကို tier များဖြင့် သတ်မှတ်ထားသော အစိတ်အပိုင်းများဖြင့် တည်ဆောက်ထားသည်။ ထိုပေါင်းစပ်မှုများက အဆိုပါသင်ခန်းစာတွင် AI မည်သို့ပါဝင်ပတ်သက်သည်ကို ပြသသည်-",
+    "tierA": "Tier A — AI ပိတ်ထားသည်။ လက်ဖြင့် သရုပ်ပြခြင်း၊ bootstrap၊ လူကိုယ်တိုင် လုပ်ဆောင်မှုများ။",
+    "tierB": "Tier B — အခြေခံ။ သင်ကိုယ်တိုင် အရင်ဆုံး လက်ဖြင့်လုပ်ဆောင်ပြီးနောက် AI နှင့်အတူ လုပ်ဆောင်ခြင်း။",
+    "tierC": "Tier C — AI ကို အခြေခံအဖြစ် အသုံးပြုခြင်း။ Claude က အလုပ်များကို လုပ်ဆောင်ပေးမည်ဖြစ်ပြီး သင်က စစ်ဆေးအတည်ပြုရမည်။",
+    "tierNote": "ကျွန်ုပ်တို့သည် သင်ခန်းစာအလိုက် အချိုးအစားကို သေချာစွာ မျှတအောင် ညှိနှိုင်းထားသည်။ Ch0 သည် အားလုံး Tier A (လက်ဖြင့် ပြင်ဆင်ခြင်း) ဖြစ်သည်။ Ch2 သည် Tier B နှင့် Tier C များစွာ ပါဝင်သည် (Claude ကို လေ့လာခြင်း)။ Ch8 တွင် Tier A သို့ ပြန်သွားသည် (demo များမှာ လူကိုယ်တိုင် ပြုလုပ်ရခြင်း ဖြစ်သည်)။",
+    "getHeading": "သင်ရရှိမည့်အရာများ",
+    "commitHeading": "သင်ပေးဆပ်ရမည့်အရာများ",
     "get": [
-      "[MY] 16 live sessions (32 hours)",
-      "[MY] All curriculum materials (CC-BY-SA)",
-      "[MY] Cohort channel access",
-      "[MY] One-on-one office hour (optional)",
-      "[MY] A public PR on the Tour Repo (portfolio)"
+      "တိုက်ရိုက်သင်ကြားမှု ၁၆ ကြိမ် (၃၂ နာရီ)",
+      "သင်ရိုးညွှန်းတမ်းဆိုင်ရာ အထောက်အထားများအားလုံး (CC-BY-SA)",
+      "သင်တန်းသားများ ချန်နယ်သို့ ဝင်ရောက်ခွင့်",
+      "တစ်ဦးချင်း ဆွေးနွေးမှုအချိန် (ရွေးချယ်နိုင်သည်)",
+      "Tour Repo (portfolio) တွင် အများမြင်နိုင်သော PR တစ်ခု"
     ],
     "commit": [
-      "[MY] 5-8 hours per week outside class",
-      "[MY] Show up to 2/3 of sessions minimum",
-      "[MY] Demo day attendance",
-      "[MY] Help your buddy",
-      "[MY] One honest retrospective at the end"
+      "သင်တန်းချိန်ပြင်ပ တစ်ပတ်လျှင် ၅ နာရီမှ ၈ နာရီအထိ",
+      "သင်တန်းချိန်များ၏ အနည်းဆုံး ၃ ပုံ ၂ ပုံကို တက်ရောက်ရန်",
+      "Demo day တက်ရောက်မှု",
+      "သင့်အဖော် (buddy) ကို ကူညီပါ",
+      "အဆုံးသတ်တွင် ရိုးသားသော retrospective တစ်ခု"
     ]
   },
   "apply": {
-    "title": "[MY] Apply — Vibe Code Tours",
-    "description": "[MY] Cohort 1 applications closed with 298 registrants; 9 students selected. Join the announcement list for the next cohort.",
-    "heading": "[MY] Applications closed",
-    "closedBody": "[MY] Cohort 1 applications closed on 2026-XX-XX with 298 registrants. 9 students were selected.",
-    "nextCohort": "[MY] Next cohort opens: announcing in early 2027.",
-    "notifyHeading": "[MY] To be notified",
+    "title": "လျှောက်ထားရန် — Vibe Code Tours",
+    "description": "Cohort 1 လျှောက်လွှာများကို မှတ်ပုံတင်သူ ၂၉၈ ဦးဖြင့် ပိတ်လိုက်ပါပြီ။ ကျောင်းသား ၉ ဦး ရွေးချယ်ပြီးပါပြီ။ နောက်လာမည့် cohort အတွက် ကြေညာချက်စာရင်းသို့ ဝင်ရောက်ထားပါ။",
+    "heading": "လျှောက်လွှာပိတ်ပါပြီ",
+    "closedBody": "Cohort 1 လျှောက်လွှာများကို ၂၉၈ ဦး မှတ်ပုံတင်ပြီးနောက် 2026-05-17 တွင် ပိတ်သိမ်းခဲ့သည်။ ကျောင်းသား ၉ ဦးကို ရွေးချယ်ခဲ့သည်။",
+    "nextCohort": "နောက်လာမည့် cohort ဖွင့်လှစ်မည့်အချိန်- ၂၀၂၇ အစောပိုင်းတွင် ကြေညာပါမည်။",
+    "notifyHeading": "အကြောင်းကြားချက်ရယူရန်",
     "notifyList": [
-      "[MY] Watch this site",
-      "[MY] Or email ai+tour@vibecode.tours to join the announcement list"
+      "ဤ site ကို စောင့်ကြည့်ပါ",
+      "သို့မဟုတ် ကြေညာချက်စာရင်းသို့ ဝင်ရောက်ရန် ai+tour@vibecode.tours သို့ email ပို့ပါ"
     ],
-    "lookHeading": "[MY] What we look for",
-    "lookIntro": "[MY] (Same scoring criteria we used. Transparency builds trust.)",
+    "lookHeading": "ကျွန်ုပ်တို့ ရှာဖွေနေသည့်အရာ",
+    "lookIntro": "(ကျွန်ုပ်တို့အသုံးပြုခဲ့သည့် တူညီသော အမှတ်ပေးစံနှုန်းများ။ ပွင့်လင်းမြင်သာမှုသည် ယုံကြည်မှုကို တည်ဆောက်သည်။)",
     "lookList": [
-      "[MY] Realistic time commitment (5+ hr/week outside class)",
-      "[MY] Concrete project idea (or willingness to find one)",
-      "[MY] Terminal comfort",
-      "[MY] Honest about gaps",
-      "[MY] Willing to pair with a buddy",
-      "[MY] Working laptop with 8GB+ RAM + stable internet"
+      "လက်တွေ့ကျသော အချိန်ပေးနိုင်မှု (အတန်းပြင်ပတွင် တစ်ပတ်လျှင် ၅ နာရီနှင့်အထက်)",
+      "ခိုင်မာသော project idea (သို့မဟုတ် ရှာဖွေလိုသည့် စိတ်ဆန္ဒ)",
+      "Terminal အသုံးပြုရသည်မှာ ကျွမ်းကျင်မှုရှိခြင်း",
+      "အားနည်းချက်များအပေါ် ရိုးသားမှုရှိခြင်း",
+      "အဖော် (buddy) နှင့် တွဲဖက်လုပ်ဆောင်လိုစိတ်ရှိခြင်း",
+      "8GB+ RAM ပါဝင်သည့် အလုပ်လုပ်သော laptop နှင့် တည်ငြိမ်သော အင်တာနက်"
     ]
   },
   "sponsors": {
-    "title": "[MY] Sponsors — Vibe Code Tours",
-    "description": "[MY] The Tour is free to students. That requires sponsorship. How organizations and individuals can support Vibe Code Tours.",
-    "heading": "[MY] Sponsors + supporters",
-    "intro": "[MY] The Tour is free to students. That requires sponsorship.",
-    "cohort1Heading": "[MY] Cohort 1 sponsors",
+    "title": "ပံ့ပိုးကူညီသူများ — Vibe Code Tours",
+    "description": "The Tour သည် ကျောင်းသားများအတွက် အခမဲ့ဖြစ်သည်။ ထိုသို့ဖြစ်ရန် ပံ့ပိုးကူညီမှု လိုအပ်ပါသည်။ အဖွဲ့အစည်းများနှင့် လူပုဂ္ဂိုလ်များအနေဖြင့် Vibe Code Tours ကို မည်သို့ကူညီပံ့ပိုးနိုင်ပုံ။",
+    "heading": "ပံ့ပိုးကူညီသူများ + ထောက်ခံအားပေးသူများ",
+    "intro": "The Tour သည် ကျောင်းသားများအတွက် အခမဲ့ဖြစ်သည်။ ထိုသို့ဖြစ်ရန် ပံ့ပိုးကူညီမှု လိုအပ်ပါသည်။",
+    "cohort1Heading": "Cohort 1 ပံ့ပိုးကူညီသူများ",
     "cohort1List": [
-      "[MY] [Sponsor 1] — provided <what>",
-      "[MY] [Sponsor 2] — provided <what>",
-      "[MY] (Or: \"Currently bootstrapped by instructor + small donors. See below to support.\")"
+      "လက်ရှိတွင် သင်တန်းဆရာမှ ကိုယ်ထူကိုယ်ထစနစ်ဖြင့် လုပ်ဆောင်နေခြင်းဖြစ်သည် — sponsor မရှိသေးပါ။",
+      "Cohort 1 ၏ ပထမဆုံး sponsor ဖြစ်လိုပါသလား။ အောက်တွင် ကြည့်ရှုပါ။"
     ],
-    "howHeading": "[MY] How to sponsor",
-    "orgHeading": "[MY] For organizations",
-    "orgIntro": "[MY] We need:",
+    "howHeading": "မည်သို့ ပံ့ပိုးကူညီရမည်နည်း",
+    "orgHeading": "အဖွဲ့အစည်းများအတွက်",
+    "orgIntro": "ကျွန်ုပ်တို့ လိုအပ်သည်များ-",
     "orgList": [
-      "[MY] API credits (Anthropic, AWS, Google Cloud)",
-      "[MY] Cloud compute (small VPS or droplet)",
-      "[MY] Cash for student equipment grants (laptops for students who lack one)",
-      "[MY] Office hours from senior engineers (1 hr/week)"
+      "API credits (Anthropic, AWS, Google Cloud)",
+      "Cloud compute (VPS အသေးစား သို့မဟုတ် droplet)",
+      "ကျောင်းသားများအတွက် ပစ္စည်းကိရိယာထောက်ပံ့ကြေး (လက်ပ်တော့မရှိသော ကျောင်းသားများအတွက် လက်ပ်တော့များ)",
+      "Senior engineer များထံမှ အကြံဉာဏ်ရယူနိုင်သော Office hours (တစ်ပတ်လျှင် ၁ နာရီ)"
     ],
-    "orgContact": "[MY] Contact: ai+tour@vibecode.tours with subject \"Sponsor inquiry\".",
-    "indHeading": "[MY] For individuals",
-    "indIntro": "[MY] If you want to back the Tour at smaller scale:",
+    "orgContact": "ဆက်သွယ်ရန်- \"Sponsor inquiry\" ဟူသော ခေါင်းစဉ်ဖြင့် ai+tour@vibecode.tours သို့ ဆက်သွယ်ပါ။",
+    "indHeading": "တစ်ဦးချင်းစီအတွက်",
+    "indIntro": "အကယ်၍ သင်သည် Tour ကို အတိုင်းအတာအနည်းငယ်ဖြင့် ကူညီပံ့ပိုးလိုပါက -",
     "indList": [
-      "[MY] GitHub Sponsors: github.com/sponsors/<your-username>",
-      "[MY] Buy Me a Coffee: <link>",
-      "[MY] Spread the word — share the next cohort announcement"
+      "GitHub Sponsors: github.com/sponsors/<your-username>",
+      "Buy Me a Coffee: <link>",
+      "အခြားသူများ သိရှိအောင် မျှဝေပေးပါ — နောက်ထပ်သင်တန်းအပတ်စဉ် (cohort) ကြေညာချက်ကို မျှဝေပေးပါ"
     ],
-    "getHeading": "[MY] What sponsors get",
+    "getHeading": "Sponsor များ ရရှိမည့်အကျိုးကျေးဇူးများ",
     "getList": [
-      "[MY] Logo on this page",
-      "[MY] Mention in setup video credits (with consent)",
-      "[MY] Demo day recording access",
-      "[MY] First look at student demos for hiring (with student consent)"
+      "ဤစာမျက်နှာတွင် Logo ဖော်ပြပေးခြင်း",
+      "Setup ဗီဒီယို credit များတွင် ထည့်သွင်းဖော်ပြပေးခြင်း (သဘောတူညီချက်ဖြင့်)",
+      "Demo day မှတ်တမ်းကို ကြည့်ရှုခွင့်ရရှိခြင်း",
+      "ကျောင်းသားများကို အလုပ်ခန့်ထားရန်အတွက် ၎င်းတို့၏ demo များကို ဦးစွာကြည့်ရှုနိုင်ခြင်း (ကျောင်းသား၏ သဘောတူညီချက်ဖြင့်)"
     ],
-    "noSell": "[MY] We do NOT sell sponsor access to student data. Ever."
+    "noSell": "ကျွန်ုပ်တို့သည် ကျောင်းသားများ၏ အချက်အလက်များကို Sponsor များထံ မည်သည့်အခါမျှ ရောင်းချမည် မဟုတ်ပါ။"
   },
   "faq": {
-    "title": "[MY] FAQ — Vibe Code Tours",
-    "description": "[MY] Frequently asked questions about Vibe Code Tours: is it free, certificates, time commitment, joining from abroad, and more.",
-    "heading": "[MY] Frequently asked questions",
+    "title": "FAQ — Vibe Code Tours",
+    "description": "Vibe Code Tours နှင့်ပတ်သက်၍ အမေးများသောမေးခွန်းများ - အခမဲ့လား၊ လက်မှတ်ရမှာလား၊ အချိန်ဘယ်လောက်ပေးရမလဲ၊ ပြည်ပကနေ တက်လို့ရလား အစရှိသည်တို့။",
+    "heading": "အမေးများသော မေးခွန်းများ",
     "items": [
       {
-        "q": "[MY] Is the Tour really free?",
-        "a": "[MY] Yes. We're sponsor-funded. We don't take money from students. We may ask for an optional voluntary contribution at the end if you found it valuable, but it's never required."
+        "q": "Tour က တကယ်ပဲ အခမဲ့လား?",
+        "a": "ဟုတ်ကဲ့ — ကျောင်းသားများအတွက် အခမဲ့ဖြစ်သည်၊ အခြားဘာမှမရှိပါ။ ယခုအချိန်တွင် Vibe Code Tours ကို သင်တန်းဆရာမှ ကိုယ်ထူကိုယ်ထစနစ်ဖြင့် လုပ်ဆောင်နေခြင်းဖြစ်ပြီး corporate sponsor မရှိသေးပါ (ကျွန်ုပ်တို့ ရှာဖွေနေဆဲဖြစ်သည် — Sponsors စာမျက်နှာတွင် ကြည့်ရှုပါ)။ သင့်ကို မည်သည့်အခါမျှ အခကြေးငွေ ကောက်ခံမည်မဟုတ်ပါ။ သင်တန်းပြီးဆုံး၍ အကျိုးရှိသည်ဟု ခံစားရပါက နောက်ထပ် cohort အတွက် ရန်ပုံငွေအဖြစ် မိမိသဘောဆန္ဒအလျောက် ထည့်ဝင်နိုင်သည် — သို့သော် လုံးဝမဖြစ်မနေ မဟုတ်ပါ။"
       },
       {
-        "q": "[MY] Why \"Tour\"?",
-        "a": "[MY] We tour the AI coding ecosystem — multiple tools, multiple workflows, multiple model providers. Not a bootcamp on one stack."
+        "q": "ဘာကြောင့် \"Tour\" လို့ ခေါ်တာလဲ?",
+        "a": "ကျွန်ုပ်တို့က AI coding ecosystem တစ်ခုလုံးကို လှည့်လည်ကြည့်ရှု (tour) ကြမှာပါ — ကိရိယာမျိုးစုံ၊ workflow မျိုးစုံနဲ့ model provider မျိုးစုံ ပါဝင်ပါတယ်။ နည်းပညာတစ်ခုတည်းကိုပဲ သင်ပေးတဲ့ bootcamp မဟုတ်ပါဘူး။"
       },
       {
-        "q": "[MY] Do I get a certificate?",
-        "a": "[MY] Finish the Tour and find out. We don't lead with a certificate — a PDF isn't why you came. But complete the journey and there's a hidden gem waiting at the end for those who make it through. Along the way you also earn the things that actually carry weight: a public PR on the Tour Repo (your portfolio), a demo day recording (your work, shareable), and a reference letter on request. The gem is the reward; the work is the proof."
+        "q": "ကျွန်တော်/ကျွန်မ လက်မှတ် ရမှာလား?",
+        "a": "Tour ကို အဆုံးထိတက်ကြည့်ပြီး ကိုယ်တိုင် ရှာဖွေလိုက်ပါ။ ကျွန်ုပ်တို့က လက်မှတ်ကို အဓိကမထားပါဘူး — PDF တစ်စောင်ရဖို့အတွက် သင်လာခဲ့တာ မဟုတ်လို့ပါ။ ဒါပေမယ့် ခရီးဆုံးထိ ရောက်အောင်သွားနိုင်သူတွေအတွက် အဆုံးမှာ အဖိုးတန်တဲ့အရာတစ်ခု စောင့်ကြိုနေမှာပါ။ ခရီးစဉ်တစ်လျှောက်မှာ အမှန်တကယ် အရေးပါတဲ့ အရာတွေကိုလည်း သင် ရရှိပါလိမ့်မယ် - Tour Repo ပေါ်က အများပြည်သူမြင်နိုင်တဲ့ PR တစ်ခု (သင့်ရဲ့ portfolio အတွက်)၊ demo day မှတ်တမ်း (သင့်ရဲ့ လုပ်ဆောင်ချက်၊ သူငယ်ချင်းတွေကို ပြလို့ရတယ်) နဲ့ လိုအပ်ရင် ထောက်ခံစာတို့ ဖြစ်ပါတယ်။ အဆုံးက အရာဟာ ဆုလာဘ်ဖြစ်ပြီး သင်လုပ်ခဲ့တဲ့ အလုပ်တွေကတော့ သင့်အရည်အချင်းအတွက် သက်သေပါပဲ။"
       },
       {
-        "q": "[MY] Can I join from outside Myanmar?",
-        "a": "[MY] Yes. Instruction is English. Cohort schedule is Myanmar evening / SE Asia evening, which works for ~half the planet."
+        "q": "မြန်မာနိုင်ငံပြင်ပကနေ တက်လို့ရလား?",
+        "a": "ဟုတ်ကဲ့။ သင်ကြားမှုက အင်္ဂလိပ်လို ဖြစ်ပါတယ်။ သင်တန်းအချိန်ဇယားက မြန်မာနိုင်ငံ ညနေပိုင်း / အရှေ့တောင်အာရှ ညနေပိုင်း ဖြစ်တဲ့အတွက် ကမ္ဘာ့တစ်ဝက်လောက်အတွက် အဆင်ပြေပါတယ်။"
       },
       {
-        "q": "[MY] How much time do I need per week?",
-        "a": "[MY] 5-8 hours outside the 4 hours of class. Honest answer: closer to 8 if you're newer."
+        "q": "တစ်ပတ်ကို အချိန်ဘယ်လောက် ပေးရမလဲ?",
+        "a": "စာသင်ချိန် ၄ နာရီအပြင် အပြင်မှာ ၅ နာရီကနေ ၈ နာရီလောက်ထိ အချိန်ပေးရပါမယ်။ ရိုးရိုးသားသား ပြောရရင် သင်ဟာ အတွေ့အကြုံသစ်ဆိုရင် ၈ နာရီလောက် ပိုနီးစပ်ပါလိမ့်မယ်။"
       },
       {
-        "q": "[MY] What if I can't make a session?",
-        "a": "[MY] Up to one-third of sessions can be missed without penalty (recordings provided). Beyond that you risk losing your cohort spot."
+        "q": "သင်တန်းချိန်တစ်ခုကို မတက်နိုင်ရင် ဘာဖြစ်မလဲ?",
+        "a": "သင်ခန်းစာများ၏ သုံးပုံတစ်ပုံအထိကို အပြစ်ပေးခံရမှုမရှိဘဲ ပျက်ကွက်နိုင်ပါသည် (မှတ်တမ်းများ ပေးပါမည်)။ ထိုထက်ကျော်လွန်ပါက သင်၏ ကိုဟော့ နေရာ ဆုံးရှုံးနိုင်ခြေရှိပါသည်။"
       },
       {
-        "q": "[MY] What if I don't have a project idea?",
-        "a": "[MY] That's normal for beginners. Chapter 3 helps you find one. Many students enter with no idea and leave with a working prototype."
+        "q": "ကျွန်ုပ်တွင် ပရောဂျက် အိုင်ဒီယာ မရှိလျှင် ဘာဖြစ်မလဲ?",
+        "a": "၎င်းမှာ အစပြုသူများအတွက် ပုံမှန်ပင်ဖြစ်ပါသည်။ အခန်း ၃ က သင့်အတွက် တစ်ခုရှာတွေ့ရန် ကူညီပေးပါလိမ့်မည်။ ကျောင်းသားအများအပြားမှာ အိုင်ဒီယာ မရှိဘဲ တက်ရောက်ကြပြီး အလုပ်လုပ်နိုင်သော ပရောတိုတိုက် တစ်ခုနှင့် ထွက်ခွာသွားကြပါသည်။"
       },
       {
-        "q": "[MY] Will you teach a specific tool?",
-        "a": "[MY] We touch on Claude Code (deeply), plus Cursor, Copilot, Aider, and the broader landscape. We don't promise depth on any single tool besides Claude Code."
+        "q": "သီးသန့် တူးလ် တစ်ခုခုကို သင်ကြားပေးမည်လား?",
+        "a": "ကျွန်ုပ်တို့သည် Claude Code ကို (အသေးစိတ်) သင်ကြားပေးမည်ဖြစ်ပြီး Cursor, Copilot, Aider နှင့် အခြားသော နယ်ပယ်အသီးသီးကိုလည်း ဆွေးနွေးပါမည်။ Claude Code မှလွဲ၍ အခြား တူးလ် တစ်ခုချင်းစီကို အသေးစိတ်သင်ကြားပေးမည်ဟု အာမမခံပါ။"
       },
       {
-        "q": "[MY] What if I don't speak English well?",
-        "a": "[MY] We provide Burmese support in channel for questions. Course materials are English; we recommend Claude itself for translation help — meta, but it works."
+        "q": "အင်္ဂလိပ်စာ ကောင်းကောင်းမပြောတတ်လျှင် ဘာဖြစ်မလဲ?",
+        "a": "မေးခွန်းများအတွက် ချန်နယ်တွင် မြန်မာဘာသာဖြင့် အကူအညီပေးပါမည်။ သင်ခန်းစာများမှာ အင်္ဂလိပ်ဘာသာဖြင့်ဖြစ်ပြီး၊ ဘာသာပြန်အကူအညီအတွက် Claude Code ကိုယ်တိုင်ကို အသုံးပြုရန် အကြံပြုပါသည် — မက်တာ ဆန်သော်လည်း အလုပ်ဖြစ်ပါသည်။"
       },
       {
-        "q": "[MY] Do you teach machine learning?",
-        "a": "[MY] No. We teach AI-paired CODING. Claude is the AI; you're the coder. We don't teach how to build models — we teach how to ship with them."
+        "q": "မက်ရှင် လားနင်း သင်ကြားပေးမည်လား?",
+        "a": "မသင်ပါ။ ကျွန်ုပ်တို့သည် အေအိုင် နှင့်တွဲဖက်၍ ကုဒ်ရေးခြင်းကို သင်ကြားပေးခြင်းဖြစ်ပါသည်။ Claude Code သည် အေအိုင် ဖြစ်ပြီး သင်သည် ကိုဒါ ဖြစ်ပါသည်။ မော်ဒယ်များ မည်သို့တည်ဆောက်ရမည်ကို မသင်ကြားပါ — ၎င်းတို့ကိုအသုံးပြု၍ ထုတ်ကုန်များ မည်သို့ ဖြန့်ချိရမည်ကိုသာ သင်ကြားပေးပါသည်။"
       },
       {
-        "q": "[MY] Will there be a Cohort 2?",
-        "a": "[MY] If Cohort 1 goes well. Subscribe via the apply page."
+        "q": "ကိုဟော့ ၂ ရှိလာဦးမည်လား?",
+        "a": "ကိုဟော့ ၁ အဆင်ပြေချောမွေ့ပါက ရှိလာပါမည်။ လျှောက်ထားရန် စာမျက်နှာမှတစ်ဆင့် စာရင်းသွင်းထားပါ။"
       },
       {
-        "q": "[MY] How do I help?",
-        "a": "[MY] See the sponsors page for organization-level support or individual donations. Or share this site with one developer who'd benefit."
+        "q": "ကျွန်ုပ် မည်သို့ကူညီနိုင်သနည်း?",
+        "a": "အဖွဲ့အစည်းအလိုက် ထောက်ပံ့ရန် သို့မဟုတ် တစ်ဦးချင်း လှူဒါန်းရန် စပွန်ဆာ စာမျက်နှာတွင် ကြည့်ရှုပါ။ သို့မဟုတ် အကျိုးရှိနိုင်မည့် ဒစ်ဗလော့ပါ တစ်ဦးထံသို့ ဤ ဆိုဒ်ကို မျှဝေပေးပါ။"
       },
       {
-        "q": "[MY] I have a question not answered here.",
-        "a": "[MY] Email ai+tour@vibecode.tours."
+        "q": "ဤနေရာတွင် အဖြေမပါရှိသော မေးခွန်းရှိပါသေးသည်။",
+        "a": "ai+tour@vibecode.tours သို့ အီးမေးလ် ပို့ပါ။"
       }
     ]
   },
   "contact": {
-    "title": "[MY] Contact — Vibe Code Tours",
-    "description": "[MY] How to reach Vibe Code Tours: applicant questions, sponsorship, privacy requests, and Code of Conduct reports.",
-    "heading": "[MY] Contact",
-    "applicants": "[MY] For applicants + general questions",
+    "title": "ဆက်သွယ်ရန် — Vibe Code Tours",
+    "description": "Vibe Code Tours ကို ဆက်သွယ်ရန်- လျှောက်ထားသူများ၏ မေးခွန်းများ၊ စပွန်ဆာပေးခြင်း၊ ကိုယ်ရေးအချက်အလက် လုံခြုံမှုဆိုင်ရာ တောင်းဆိုချက်များနှင့် Code of Conduct ဆိုင်ရာ တိုင်ကြားချက်များ။",
+    "heading": "ဆက်သွယ်ရန်",
+    "applicants": "လျှောက်ထားသူများနှင့် အထွေထွေမေးခွန်းများအတွက်",
     "applicantsEmail": "ai+tour@vibecode.tours",
-    "sponsorship": "[MY] For sponsorship",
+    "sponsorship": "စပွန်ဆာပေးခြင်းအတွက်",
     "sponsorshipEmail": "ai+tour@vibecode.tours",
-    "sponsorshipNote": "[MY] with subject \"Sponsor inquiry\"",
-    "privacy": "[MY] For privacy / data requests",
+    "sponsorshipNote": "အကြောင်းအရာတွင် \"Sponsor inquiry\" ဟု ဖော်ပြ၍",
+    "privacy": "ကိုယ်ရေးအချက်အလက် လုံခြုံမှု / ဒေတာဆိုင်ရာ တောင်းဆိုချက်များအတွက်",
     "privacyEmail": "ai+privacy@vibecode.tours",
-    "coc": "[MY] For Code of Conduct reports",
+    "coc": "Code of Conduct ဆိုင်ရာ တိုင်ကြားချက်များအတွက်",
     "cocEmail": "ai+conduct@vibecode.tours",
-    "channelsHeading": "[MY] Public channels",
-    "github": "[MY] GitHub",
+    "channelsHeading": "အများပြည်သူဆိုင်ရာ ချန်နယ်များ",
+    "github": "GitHub",
     "githubUrl": "https://github.com/vibe-code-tours",
     "githubLabel": "github.com/vibe-code-tours",
-    "x": "[MY] X / Twitter",
+    "x": "X / Twitter",
     "xHandle": "@your-handle",
     "xUrl": "https://x.com/your-handle",
-    "forwardNote": "[MY] (All @vibecode.tours emails forward to the lead instructor.)"
+    "forwardNote": "(@vibecode.tours အီးမေးလ်များအားလုံးကို သင်တန်းဦးစီးသူထံသို့ လွှဲပြောင်းပေးပို့ပါသည်။)"
   },
   "terms": {
-    "title": "[MY] Terms & Conditions — Vibe Code Tours",
-    "description": "[MY] Vibe Code Tours Terms & Conditions v1.0.0: eligibility, conduct, intellectual property, disclaimers, and limitation of liability."
+    "title": "စည်းမျဉ်းစည်းကမ်းများ — Vibe Code Tours",
+    "description": "Vibe Code Tours စည်းမျဉ်းစည်းကမ်းများ v1.0.0- အရည်အချင်းသတ်မှတ်ချက်၊ ကျင့်ဝတ်၊ မူပိုင်ခွင့်၊ ငြင်းဆိုချက်များနှင့် တာဝန်ယူမှု ကန့်သတ်ချက်များ။"
   },
   "coc": {
-    "title": "[MY] Code of Conduct — Vibe Code Tours",
-    "description": "[MY] Vibe Code Tours Code of Conduct, based on Contributor Covenant 2.1, with Myanmar-context additions on language, politics, and gender in tech."
+    "title": "Code of Conduct — Vibe Code Tours",
+    "description": "Contributor Covenant 2.1 ကို အခြေခံထားသော Vibe Code Tours ၏ ကျင့်ဝတ်စည်းကမ်းဖြစ်ပြီး နည်းပညာနယ်ပယ်ရှိ ဘာသာစကား၊ နိုင်ငံရေးနှင့် ကျားမရေးရာတို့နှင့် ပတ်သက်သည့် မြန်မာ့အခြေအနေ ဖြည့်စွက်ချက်များ ပါဝင်သည်။"
   },
   "privacy": {
-    "title": "[MY] Privacy Policy — Vibe Code Tours",
-    "description": "[MY] Vibe Code Tours Privacy Policy v1.0.0: what we collect, why, how long we keep it, who sees it, third parties, and your rights."
+    "title": "ကိုယ်ရေးအချက်အလက် ထိန်းသိမ်းမှု မူဝါဒ — Vibe Code Tours",
+    "description": "Vibe Code Tours ၏ ကိုယ်ရေးအချက်အလက် ထိန်းသိမ်းမှု မူဝါဒ v1.0.0- ကျွန်ုပ်တို့ ဘာတွေကို စုဆောင်းသလဲ၊ ဘာကြောင့်လဲ၊ ဘယ်လောက်ကြာကြာ သိမ်းထားသလဲ၊ ဘယ်သူတွေ မြင်နိုင်သလဲ၊ ပြင်ပအဖွဲ့အစည်းများနှင့် သင်၏ အခွင့်အရေးများ။"
   }
 }
