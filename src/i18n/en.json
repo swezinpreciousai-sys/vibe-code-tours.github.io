@@ -200,7 +200,7 @@
     "items": [
       {
         "q": "Is the Tour really free?",
-        "a": "Yes — free for students, full stop. Right now the Tour is bootstrapped by the instructor; we don't have a corporate sponsor yet (we're looking — see the Sponsors page). You'll never be charged. If you finish and found it valuable, an optional voluntary contribution helps fund the next cohort — but it's never required."
+        "a": "Yes — free for students, full stop. Right now the Tour is bootstrapped by the instructor; we don't have a corporate sponsor yet (we're looking — see the Sponsors page). You'll never be charged. If you finish and found it valuable, the best way to give back isn't money — it's contributing to the Tour Repo: open a PR, suggest improvements, share feedback, or build and share your own project. That helps the next cohort more than any donation could."
       },
       {
         "q": "Why \"Tour\"?",
